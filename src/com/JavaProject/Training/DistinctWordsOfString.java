@@ -1,9 +1,9 @@
 package com.JavaProject.Training;
 
-public class First {
+public class DistinctWordsOfString {
 
 	public static void main(String[] args) {
-		 System.out.println("Hello, World!"); 
+		// TODO Auto-generated method stub
 
 	}
 
